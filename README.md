@@ -1,3 +1,3 @@
 # JS-Strings
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AaryanPanda/JS-Strings)
+Complete the challenges in js.script file using JS Strings knowledge.
